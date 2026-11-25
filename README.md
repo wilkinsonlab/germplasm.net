@@ -2,4 +2,6 @@
 
 # Germplasm.NET
 
-Tooling to Support a Network of Spanish Germplasm Banks
+The Network of Spanish Germplasm Banks
+
+We are under construction.  Please see the previous FLAIR-GG project page here: https://wilkinsonlab.github.io/FLAIR-GG/
